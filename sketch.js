@@ -104,7 +104,7 @@ function feedDog(){
     
   }
 
-  else if(foodS <= 0) {
+  else if(foodS <= 1) {
     dog.addImage(sadDog);
   }
 
